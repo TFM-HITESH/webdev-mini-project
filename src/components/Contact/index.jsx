@@ -23,7 +23,7 @@ export default function index() {
                             <Image 
                             fill={true}
                             alt={"image"}
-                            src={`/images/background.jpg`}
+                            src={`/images/contact.jpg`}
                             />
                         </div>
                         <h2>Let's work</h2>
@@ -43,19 +43,16 @@ export default function index() {
                             <p>ganesh.khekare@vit.ac.in</p>
                         </Rounded>
                         <Rounded>
-                            <p>+31 6 27 84 74 30</p>
+                            <p>+91 99604 60161</p>
                         </Rounded>
                 </div>
                 <div className={styles.info}>
                     <div>
                         <span>
                             <h3>Version</h3>
-                            <p>2022 © Edition</p>
+                            <p>2024 © Edition</p>
                         </span>
-                        <span>
-                            <h3>Version</h3>
-                            <p>11:49 PM GMT+2</p>
-                        </span>
+                        
                     </div>
                     <div>
                         <span>
